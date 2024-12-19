@@ -21,5 +21,6 @@ Currently, two official plugins are available:
   </li>
   <li>
     <b>Navigate to the Project Directory:</b>
+    <pre><code>cd college-landing-page</code></pre>
   </li>
 </ol>
