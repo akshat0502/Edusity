@@ -17,5 +17,6 @@ Currently, two official plugins are available:
   <li>
     <b>Set Up a React Project:</b>
     <p>Use <code>create-react-app</code> to set up your React project:</p>
+    <pre><code>npx create-react-app college-landing-page</code></pre>
   </li>
 </ol>
