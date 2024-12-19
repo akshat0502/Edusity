@@ -12,5 +12,6 @@ Currently, two official plugins are available:
 <ol>
   <li>
     <b>Install Node.js:</b>
+    <p>Ensure you have Node.js installed on your system. Download it from <a href="https://nodejs.org" target="_blank">https://nodejs.org</a>.</p>
   </li>
 </ol>
