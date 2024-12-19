@@ -9,3 +9,8 @@ Currently, two official plugins are available:
 <h1>College Landing Page Using React</h1>
 <p>This guide explains how to create and run a React-based frontend for a College Landing Page.</p>
 <h2>Steps to Run the React App:</h2>
+<ol>
+  <li>
+    <b>Install Node.js:</b>
+  </li>
+</ol>
