@@ -29,6 +29,7 @@ Currently, two official plugins are available:
     <ul>
       <li>Homepage with an introduction to the college</li>
       <li>About section with details of the institution</li>
+      <li>Programs offered</li>
     </ul>
   </li>
 </ol>
