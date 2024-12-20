@@ -23,4 +23,7 @@ Currently, two official plugins are available:
     <b>Navigate to the Project Directory:</b>
     <pre><code>cd college-landing-page</code></pre>
   </li>
+  <li>
+    <b>Build the College Landing Page:</b>
+  </li>
 </ol>
