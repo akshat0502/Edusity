@@ -28,6 +28,7 @@ Currently, two official plugins are available:
     <p>Customize the app by editing files in the <code>src</code> folder. You can create components for:</p>
     <ul>
       <li>Homepage with an introduction to the college</li>
+      <li>About section with details of the institution</li>
     </ul>
   </li>
 </ol>
