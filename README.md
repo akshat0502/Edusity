@@ -25,5 +25,6 @@ Currently, two official plugins are available:
   </li>
   <li>
     <b>Build the College Landing Page:</b>
+    <p>Customize the app by editing files in the <code>src</code> folder. You can create components for:</p>
   </li>
 </ol>
