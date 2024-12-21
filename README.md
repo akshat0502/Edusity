@@ -33,4 +33,7 @@ Currently, two official plugins are available:
       <li>Admissions and contact forms</li>
     </ul>
   </li>
+  <li>
+    <b>Build for Production:</b>
+  </li>
 </ol>
