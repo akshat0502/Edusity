@@ -36,5 +36,6 @@ Currently, two official plugins are available:
   <li>
     <b>Build for Production:</b>
     <p>When your app is ready for deployment, run:</p>
+    <pre><code>npm run build</code></pre>
   </li>
 </ol>
