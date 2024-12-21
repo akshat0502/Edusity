@@ -42,3 +42,13 @@ Currently, two official plugins are available:
 </ol>
 
 <h2>Folder Structure:</h2>
+<pre><code>
+college-landing-page/
+  ├── public/       // Static files (e.g., index.html)
+  ├── src/          // React components, styles, and logic
+  │   ├── components/  // Reusable UI components
+  │   ├── pages/        // Pages like Home, About, Programs, Admissions
+  │   ├── App.js        // Main app component
+  │   ├── index.js      // Entry point
+  ├── package.json  // Project dependencies and scripts
+        </code></pre>
