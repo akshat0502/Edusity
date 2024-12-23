@@ -55,4 +55,5 @@ college-landing-page/
 <h2>Tips:</h2>
 <ul>
   <li>Use a component library like <a href="https://mui.com/" target="_blank">Material-UI</a> or <a href="https://ant.design/" target="_blank">Ant Design</a> for pre-designed UI components.</li>
+  <li>Add animations and transitions to enhance user experience (e.g., using <a href="https://reactcommunity.org/react-transition-group/" target="_blank">React Transition Group</a>).</li>
 </ul>
