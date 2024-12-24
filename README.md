@@ -43,7 +43,7 @@ Currently, two official plugins are available:
 
 <h2>Folder Structure:</h2>
 <pre><code>
-college-landing-page/
+  college-landing-page/
   ├── public/       // Static files (e.g., index.html)
   ├── src/          // React components, styles, and logic
   │   ├── components/  // Reusable UI components
@@ -51,7 +51,7 @@ college-landing-page/
   │   ├── App.js        // Main app component
   │   ├── index.js      // Entry point
   ├── package.json  // Project dependencies and scripts
-        </code></pre>
+</code></pre>
 <h2>Tips:</h2>
 <ul>
   <li>Use a component library like <a href="https://mui.com/" target="_blank">Material-UI</a> or <a href="https://ant.design/" target="_blank">Ant Design</a> for pre-designed UI components.</li>
