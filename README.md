@@ -1,3 +1,8 @@
+<h1>
+  <a href="https://edusity-six-beige.vercel.app/">Edusity</a>
+  <br />
+  <hr />
+</h1>
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
