@@ -1,8 +1,8 @@
 <h1>
   <a href="https://edusity-six-beige.vercel.app/">Edusity</a>
-  <br />
   <hr />
 </h1>
+<p>EduCampus is a React.js-based web application designed to showcase college programs, campus life, and resources in an engaging and accessible manner. Its intuitive, responsive design ensures a seamless user experience across all devices.</p>
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
