@@ -5,8 +5,8 @@
 </h1>
 <ul>
   <li><p><b>Edusity</b> is a React.js-based web application designed to showcase college programs, campus life, and resources in an engaging and accessible manner. Its intuitive, responsive design ensures a seamless user experience across all devices.</p></li>
+  <li><p>Prospective students can explore detailed information about academic programs, admission requirements, and extracurricular activities. The platform features virtual campus tours, photo galleries, and testimonials to provide an immersive look into college life.</p></li>
 </ul>
-<p>Prospective students can explore detailed information about academic programs, admission requirements, and extracurricular activities. The platform features virtual campus tours, photo galleries, and testimonials to provide an immersive look into college life.</p>
 <p>Current students can access campus news, event calendars, and student services, creating a centralized hub for information.</p>
 <p>For administrators, <b>Edusity</b> offers tools to update program details, manage events, and communicate with students effectively, fostering an interactive campus community.</p>
 
